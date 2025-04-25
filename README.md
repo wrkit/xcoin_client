@@ -74,9 +74,7 @@ orders, err := client.GetPairOrders(ctx, pairID)
 err = client.UpdatePairSettings(ctx, pairID, newSettings)
 ```
 
-## Architecture
-
-The library is built on the following principles:
+## The library is built on the following principles:
 
 1. Configurable client with support for bot URL and HTTP client settings
 2. Non-blocking requests with context support
