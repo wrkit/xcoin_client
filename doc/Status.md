@@ -1,0 +1,86 @@
+# Get Version
+## Request
+```
+GET http://127.0.0.1:5678/XCoin/Ver
+
+Response:
+    Responce is html page with list pair, bot version, bot id,count pairs on list
+Headers:
+    Content-Type: text/html
+
+Body:
+<h1><span style="color: red">XCoinBot service</span></h1>
+<p>Id - <span style="color: blue">2092579562</span></p>
+<p>Adress - <span style="color: blue">http://0.0.0.0:21021/</span></p>
+<h2><span style="color: red">List Pair</span></h2>
+<p>Count 16 pair</p>
+<table border="1">
+    <tr>
+        <td align="center">keyWork</td>
+        <td align="center">Pair</td>
+    </tr>
+    <tr>
+        <td align="center">1</td>
+        <td>ATOMFDUSD up FDUSD</td>
+    </tr>
+    <tr>
+        <td align="center">4</td>
+        <td>SHIBFDUSD up FDUSD</td>
+    </tr>
+    <tr>
+        <td align="center">5</td>
+        <td>SOLFDUSD up FDUSD</td>
+    </tr>
+    <tr>
+        <td align="center">6</td>
+        <td>TWTUSDT up USDT</td>
+    </tr>
+    <tr>
+        <td align="center">7</td>
+        <td>DOTFDUSD up FDUSD</td>
+    </tr>
+    <tr>
+        <td align="center">8</td>
+        <td>TLMUSDT up USDT</td>
+    </tr>
+    <tr>
+        <td align="center">9</td>
+        <td>CRVUSDT up USDT</td>
+    </tr>
+    <tr>
+        <td align="center">-10</td>
+        <td>BTCBUSD up BUSD</td>
+    </tr>
+    <tr>
+        <td align="center">11</td>
+        <td>DARUSDT up USDT</td>
+    </tr>
+    <tr>
+        <td align="center">12</td>
+        <td>PONDUSDT up USDT</td>
+    </tr>
+    <tr>
+        <td align="center">13</td>
+        <td>XRPFDUSD up FDUSD</td>
+    </tr>
+    <tr>
+        <td align="center">15</td>
+        <td>LINKFDUSD up FDUSD</td>
+    </tr>
+    <tr>
+        <td align="center">16</td>
+        <td>TKOUSDT up USDT</td>
+    </tr>
+    <tr>
+        <td align="center">17</td>
+        <td>DOGEFDUSD up FDUSD</td>
+    </tr>
+    <tr>
+        <td align="center">19</td>
+        <td>SYSUSDT up USDT</td>
+    </tr>
+    <tr>
+        <td align="center">20</td>
+        <td>OPFDUSD up FDUSD</td>
+    </tr>
+</table>

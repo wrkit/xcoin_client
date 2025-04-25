@@ -1,0 +1,112 @@
+{
+    "Val": [
+      {
+        "Key": "BestAskPrice",
+        "Value": "4,20600000"
+      },
+      {
+        "Key": "BestBidPrice",
+        "Value": "4,20500000"
+      },
+      {
+        "Key": "Status",
+        "Value": "StopWait"
+      },
+      {
+        "Key": "AllProfit",
+        "Value": "17,0572"
+      },
+      {
+        "Key": "AllCountSession",
+        "Value": "207"
+      },
+      {
+        "Key": "Birga",
+        "Value": "0"
+      },
+      {
+        "Key": "Val1",
+        "Value": "ATOM"
+      },
+      {
+        "Key": "Val2",
+        "Value": "FDUSD"
+      },
+      {
+        "Key": "strateg",
+        "Value": "1"
+      },
+      {
+        "Key": "firstStep",
+        "Value": "0,04"
+      },
+      {
+        "Key": "orderStep",
+        "Value": "0,85"
+      },
+      {
+        "Key": "orderStepManual",
+        "Value": ""
+      },
+      {
+        "Key": "plusStep",
+        "Value": "0,85"
+      },
+      {
+        "Key": "plusStepManual",
+        "Value": ""
+      },
+      {
+        "Key": "mnogitel",
+        "Value": "1"
+      },
+      {
+        "Key": "minPlusStep",
+        "Value": "0"
+      },
+      {
+        "Key": "martingale",
+        "Value": "6"
+      },
+      {
+        "Key": "martingaleManual",
+        "Value": "-50"
+      },
+      {
+        "Key": "depositOrderVal",
+        "Value": "USDT"
+      },
+      {
+        "Key": "depositOrder",
+        "Value": "60"
+      },
+      {
+        "Key": "limitDeposit",
+        "Value": "500"
+      },
+      {
+        "Key": "profit",
+        "Value": "0,5"
+      },
+      {
+        "Key": "profitManual",
+        "Value": ""
+      },
+      {
+        "Key": "trailing",
+        "Value": "0"
+      },
+      {
+        "Key": "KolOrder",
+        "Value": "99"
+      },
+      {
+        "Key": "ErrorCode",
+        "Value": "0"
+      },
+      {
+        "Key": "ErrorDescr",
+        "Value": ""
+      }
+    ]
+  }
